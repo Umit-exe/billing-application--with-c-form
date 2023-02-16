@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\faturalandirma\bin\Debug\faturalandirma.exe.config
+C:\Users\HP\source\repos\faturalandirma\bin\Debug\faturalandirma.exe
+C:\Users\HP\source\repos\faturalandirma\bin\Debug\faturalandirma.pdb
+C:\Users\HP\source\repos\faturalandirma\obj\Debug\faturalandirma.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\faturalandirma\obj\Debug\faturalandirma.Form1.resources
+C:\Users\HP\source\repos\faturalandirma\obj\Debug\faturalandirma.Properties.Resources.resources
+C:\Users\HP\source\repos\faturalandirma\obj\Debug\faturalandirma.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\faturalandirma\obj\Debug\faturalandirma.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\faturalandirma\obj\Debug\faturalandirma.exe
+C:\Users\HP\source\repos\faturalandirma\obj\Debug\faturalandirma.pdb
